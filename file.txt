@@ -1,0 +1,3 @@
+FillallthedatainsidethemainfunctionandPasstheaddressofthearraytoa
+voidfunctioncalledprint.
+Thenprintallthedatainsideprintfunction mohamed
